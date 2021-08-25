@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<!-- <h4> Acesse em: https://toninho-ball.vercel.app </h4> -->
+<h4> Acesse em: https://toninho-ball.vercel.app </h4>
 
 Faça o Toninho correr atrás da bola :)
 
