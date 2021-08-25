@@ -11,10 +11,7 @@
 
 <br>
 
-<p align="center">
-    <!-- https://github.com/Marceometry/Toninho-Ball -->
-  <!-- <img alt="Project Mockup" src=".github/mockup.gif" width="100%"> -->
-</p>
+https://user-images.githubusercontent.com/76463400/130826463-b7fb4ef1-095b-4ee6-a9e7-6ced9ed8b1e9.mp4
 
 ## 🧪 Tecnologias
 
@@ -31,8 +28,7 @@ Faça o Toninho correr atrás da bola :)
 
 ## 💣 Funcionalidades
 
-- Tema dark e light
-- Calcular expressões simples
+- Pegar a bola para o Toninho correr atrás
 
 ## 🚀 Como executar
 
